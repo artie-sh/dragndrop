@@ -1,4 +1,4 @@
-#!/home/artie-sh/Documents/dragndrop/venv/bin/python
+#!/Users/ashendri/Documents/ss_mentorship/dragndrop/venv/bin/python
 
 import sys
 import getopt
